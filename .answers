@@ -7,13 +7,13 @@ Defines a level 1 heading.
 All of the above.
 Defines an unordered list of items.
 Defines an ordered list of items.
-Creates list items to exist inside either &lt;ol&gt; or &lt;ul&gt; parent elements.
+Creates list items to exist inside either `<ol>` or `<ul>` parent elements.
 Both A and C.
 Defines an anchor link for the purpose of navigating between pages.
 TRUE
 FALSE
 TRUE
 index.html
-&lt;!-- This is a comment in HTML --&gt;
-&lt;/ol&gt;
-&lt;h2 Directions&lt;/h2&gt;
+`<!-- This is a comment in HTML -->`
+`</ol>`
+`<h2 Directions`</h2>`
