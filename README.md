@@ -122,13 +122,21 @@ resources: 0
 ( ) # this is a comment in HTML
 
 ?: 18. Identify the line of code (by line number) that has an error from the following example:
+```html
+01    &lt;h2&gt;Grocery List&lt;/h2&gt;
+02    &lt;ul&gt;
+03      &lt;li&gt;Apples&lt;/li&gt;
+04      &lt;li&gt;Oranges&lt;/li&gt;
+05      &lt;li&gt;Pears&lt;/li&gt;
+06    &lt;/ol&gt;
+```
 
-( ) 01    &lt;h2&gt;Grocery List&lt;/h2&gt;
-( ) 02    &lt;ul&gt;
-( ) 03      &lt;li&gt;Apples&lt;/li&gt;
-( ) 04      &lt;li&gt;Oranges&lt;/li&gt;
-( ) 05      &lt;li&gt;Pears&lt;/li&gt;
-( ) 06    &lt;/ol&gt;
+( ) 01
+( ) 02
+( ) 03
+( ) 04
+( ) 05
+( ) 06
 
 ?: 19. Identify the line of code (by line number) that has an error from the following example:
 
