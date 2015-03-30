@@ -124,9 +124,9 @@ resources: 0
 ?: 18. Identify the line of code (by line number) that has an error from the following example:
 
 ( ) 01    &lt;h2&gt;Grocery List&lt;/h2&gt;
-   02    &lt;ul&gt;
+( ) 02    &lt;ul&gt;
 ( ) 03      &lt;li&gt;Apples&lt;/li&gt;
-   04      &lt;li&gt;Oranges&lt;/li&gt;
+( ) 04      &lt;li&gt;Oranges&lt;/li&gt;
 ( ) 05      &lt;li&gt;Pears&lt;/li&gt;
 ( ) 06    &lt;/ol&gt;
 
@@ -134,9 +134,9 @@ resources: 0
 
 ( ) 01    &lt;h2 Directions&lt;/h2&gt;
 ( ) 02    &lt;ol&gt;
-   03      &lt;li&gt;Go to north on Route 42.&lt;/li&gt;
+( ) 03      &lt;li&gt;Go to north on Route 42.&lt;/li&gt;
 ( ) 04      &lt;li&gt;Make at left at Dawsons Hwy.&lt;/li&gt;
-   05      &lt;li&gt;Turn left at Smith Rd.&lt;/li&gt;
+( ) 05      &lt;li&gt;Turn left at Smith Rd.&lt;/li&gt;
 ( ) 06    &lt;/ol&gt;
 
 ???
