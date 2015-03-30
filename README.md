@@ -1,6 +1,13 @@
+---
+language: html
+tags: html, fundamentals, elements, syntax, attributes, tags
+type: quiz
+resources: 0
+---
+
 ???
 
-## Quiz - HTML Fundamentals
+# Quiz - HTML Fundamentals
 
 ?: 1. Describe the purposes of the &lt;!doctype&gt; element.
 
