@@ -139,14 +139,14 @@ resources: 0
 ( ) 06
 
 ?: 19. Identify the line of code (by line number) that has an error from the following example:
-```html
-01    <h2 Directions</h2>
-02    <ol>
-03      <li>Go to north on Route 42.</li>
-04      <li>Make at left at Dawsons Hwy.</li>
-05      <li>Turn left at Smith Rd.</li>
-06    </ol>
-```
+
+01    `<h2 Directions</h2>`
+02    `<ol>`
+03      `<li>Go to north on Route 42.</li>`
+04      `<li>Make at left at Dawsons Hwy.</li>`
+05      `<li>Turn left at Smith Rd.</li>`
+06    `</ol>`
+
 
 ( ) 01
 ( ) 02
