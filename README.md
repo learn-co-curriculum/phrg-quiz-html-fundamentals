@@ -123,12 +123,12 @@ resources: 0
 
 ?: 18. Identify the line of code (by line number) that has an error from the following example:
 ```html
-01    &lt;h2&gt;Grocery List&lt;/h2&gt;
-02    &lt;ul&gt;
-03      &lt;li&gt;Apples&lt;/li&gt;
-04      &lt;li&gt;Oranges&lt;/li&gt;
-05      &lt;li&gt;Pears&lt;/li&gt;
-06    &lt;/ol&gt;
+01    <h2>Grocery List</h2>
+02    <ul>
+03      <li>Apples</li>
+04      <li>Oranges</li>
+05      <li>Pears</li>
+06    </ol>
 ```
 
 ( ) 01
@@ -139,12 +139,20 @@ resources: 0
 ( ) 06
 
 ?: 19. Identify the line of code (by line number) that has an error from the following example:
+```html
+01    <h2 Directions</h2>
+02    <ol>
+03      <li>Go to north on Route 42.</li>
+04      <li>Make at left at Dawsons Hwy.</li>
+05      <li>Turn left at Smith Rd.</li>
+06    </ol>
+```
 
-( ) 01    &lt;h2 Directions&lt;/h2&gt;
-( ) 02    &lt;ol&gt;
-( ) 03      &lt;li&gt;Go to north on Route 42.&lt;/li&gt;
-( ) 04      &lt;li&gt;Make at left at Dawsons Hwy.&lt;/li&gt;
-( ) 05      &lt;li&gt;Turn left at Smith Rd.&lt;/li&gt;
-( ) 06    &lt;/ol&gt;
+( ) 01
+( ) 02
+( ) 03
+( ) 04
+( ) 05
+( ) 06
 
 ???
