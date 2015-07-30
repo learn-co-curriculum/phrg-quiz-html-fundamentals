@@ -1,9 +1,4 @@
----
-language: html
-tags: html, fundamentals, elements, syntax, attributes, tags
-type: quiz
-resources: 0
----
+
 
 ???
 
