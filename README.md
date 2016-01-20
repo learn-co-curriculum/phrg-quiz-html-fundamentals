@@ -1,8 +1,8 @@
-
+# Quiz - HTML Fundamentals
 
 ???
 
-# Quiz - HTML Fundamentals
+# HTML Fundamentals
 
 ?: 1. Describe the purposes of the &lt;!doctype&gt; element.
 
@@ -68,6 +68,7 @@
 ( ) None of the above.
 
 ?: 10. Describe the purposes of the &lt;li&gt; element.
+
 ( ) Defines a listen element that plays a sound.
 (X) Creates list items to exist inside either &lt;ol&gt; or &lt;ul&gt; parent elements.
 ( ) Tells the browser to italicise the text.
@@ -116,7 +117,8 @@
 (X) &lt;!-- This is a comment in HTML --&gt;
 ( ) # this is a comment in HTML
 
-?: 18. Identify the line of code (by line number) that has an error from the following example:
+?: 18. Identify the line of code (by line number) that has an error from the following example
+
 ```html
 01    <h2>Grocery List</h2>
 02    <ul>
@@ -133,8 +135,9 @@
 ( ) 05
 (X) 06
 
-?: 19. Identify the line of code (by line number) that has an error from the following example:
-```
+?: 19. Identify the line of code (by line number) that has an error from the following example
+
+```html
 01    <h2 Directions</h2>
 02    <ol>
 03      <li>Go to north on Route 42.</li>
@@ -151,5 +154,3 @@
 ( ) 06
 
 ???
-
-<a href='https://learn.co/lessons/quiz-html-fundamentals' data-visibility='hidden'>View this lesson on Learn.co</a>
