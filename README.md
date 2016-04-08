@@ -114,7 +114,7 @@
 
 ( ) `// This is a comment in HTML`
 ( ) `/* This is a comment in HTML */`
-(X) `!-- This is a comment in HTML --`
+(X) `<!-- This is a comment in HTML -->`
 ( ) `# this is a comment in HTML`
 
 ?: 18. Identify the line of code (by line number) that has an error from the following example
