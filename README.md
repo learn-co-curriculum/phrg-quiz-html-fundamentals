@@ -120,37 +120,37 @@
 ?: 18. Identify the line of code (by line number) that has an error from the following example
 
 ```html
-01    <h2>Grocery List</h2>
-02    <ul>
-03      <li>Apples</li>
-04      <li>Oranges</li>
-05      <li>Pears</li>
-06    </ol>
+<h2>Grocery List</h2>
+<ul>
+  <li>Apples</li>
+  <li>Oranges</li>
+  <li>Pears</li>
+</ol>
 ```
 
-( ) 01
-( ) 02
-( ) 03
-( ) 04
-( ) 05
-(X) 06
+( ) line 1
+( ) line 2
+( ) line 3
+( ) line 4
+( ) line 5
+(X) line 6
 
 ?: 19. Identify the line of code (by line number) that has an error from the following example
 
 ```html
-01    <h2 Directions</h2>
-02    <ol>
-03      <li>Go to north on Route 42.</li>
-04      <li>Make at left at Dawsons Hwy.</li>
-05      <li>Turn left at Smith Rd.</li>
-06    </ol>
+<h2 Directions</h2>
+<ol>
+  <li>Go to north on Route 42.</li>
+  <li>Make at left at Dawsons Hwy.</li>
+  <li>Turn left at Smith Rd.</li>
+</ol>
 ```
 
-(X) 01
-( ) 02
-( ) 03
-( ) 04
-( ) 05
-( ) 06
+(X) line 1
+( ) line 2
+( ) line 3
+( ) line 4
+( ) line 5
+( ) line 6
 
 ???
