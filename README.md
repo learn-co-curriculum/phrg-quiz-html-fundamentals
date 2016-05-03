@@ -7,7 +7,7 @@
 ?: Describe the purpose of the `!doctype` element.
 
 ( ) Refers the browser to another page upon loading.
-(X) Informs the browser of the documents HTML version.
+(X) Informs the browser of the document's HTML version.
 ( ) Signals a comment in the code.
 ( ) None of the above, this is not a valid HTML element.
 
@@ -154,3 +154,5 @@
 ( ) line 6
 
 ???
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/quiz-html-fundamentals'>HTML Fundamentals Quiz</a> on Learn.co and start learning to code for free.</p>
