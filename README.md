@@ -7,7 +7,7 @@
 ?: Describe the purpose of the `<!DOCTYPE>` declaration.
 
 ( ) Refers the browser to another page upon loading.
-(X) Informs the browser of the documents HTML version.
+(X) Informs the browser of the document's HTML version.
 ( ) Signals a comment in the code.
 ( ) None of the above; this is not a valid HTML element.
 
