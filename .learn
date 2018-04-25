@@ -10,3 +10,5 @@ tags:
 type:
   - quiz
 resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/quiz-html-fundamentals.git

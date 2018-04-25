@@ -156,3 +156,4 @@
 ???
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/quiz-html-fundamentals'>HTML Fundamentals Quiz</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Quiz - HTML Fundamentals</p>
